@@ -2438,7 +2438,7 @@ Noida
 -Bio: Undergraduate student of MIS
 - Github:[Hasini Uththara] https://github.com/HasiniUththara
 
-#### Name: [Hasini Uththara](https://github.com/ishanidias)
+#### Name: [Ishani Dias](https://github.com/ishanidias)
 -Place: Sri Lanka
 -Bio: Undergraduate student of Web and mobile app development
 - Github:[Ishani Dias] https://github.com/ishanidias
